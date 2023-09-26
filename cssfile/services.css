@@ -206,9 +206,13 @@ button {
 }
 
 .sec5img {
-  padding-top: 5%;
-  width: 110%;
+  padding-top: 2%;
+  width: 55%;
   border-radius: 10px;
+}
+
+.imgComb{
+  width: 60%;
 }
 
 .sec5heading1 {
@@ -230,6 +234,7 @@ button {
   font-family: sans-serif;
   color: black;
 }
+
 .sec6-container-box{
   text-align: center;
   margin: auto;
@@ -250,7 +255,7 @@ button {
 
 .sec6img {
   padding-top: 10%;
-  width: 35%;
+  width: 90%;
 }
 
 .sec6heading1 {
