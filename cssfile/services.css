@@ -187,6 +187,8 @@ button {
   padding: 1% 2% 2% 2%;
   text-align: center;
   background-color: #E0FFFF;
+  font-family: sans-serif;
+  color: black;
 }
 
 .section5-text {
@@ -204,12 +206,24 @@ button {
 }
 
 .sec5img {
-  padding-top: 10%;
-  width: 35%;
+  padding-top: 2%;
+  width: 55%;
+  border-radius: 10px;
+}
+
+.imgComb{
+  width: 60%;
 }
 
 .sec5heading1 {
-  padding-top: 10%;
+  padding-top: 5%;
+}
+
+.descsec2{
+  text-align: left;
+  color: black;
+  font-size: 1rem;
+  font-family: sans-serif;
 }
 
 /* ============== Service Intro 2 =========== */
@@ -217,6 +231,13 @@ button {
   padding: 1% 2% 2% 2%;
   text-align: center;
   background-color: #F0F0F0;
+  font-family: sans-serif;
+  color: black;
+}
+
+.sec6-container-box{
+  text-align: center;
+  margin: auto;
 }
 
 .section6-color {
@@ -234,7 +255,7 @@ button {
 
 .sec6img {
   padding-top: 10%;
-  width: 35%;
+  width: 90%;
 }
 
 .sec6heading1 {
